@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  username: MyString
+  age: 1
+  zipcode: 1
+  paid_user: false
+  profile_text: MyString
+  single: false
+  email: MyString
+  is_female: false
+
+two:
+  username: MyString
+  age: 1
+  zipcode: 1
+  paid_user: false
+  profile_text: MyString
+  single: false
+  email: MyString
+  is_female: false
