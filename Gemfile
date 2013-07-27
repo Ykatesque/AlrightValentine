@@ -16,6 +16,8 @@ gem 'dotenv-rails'
 
 
 gem 'carrierwave'
+gem 'rmagick'
+
 gem 'sorcery'
 gem 'stripe'
 

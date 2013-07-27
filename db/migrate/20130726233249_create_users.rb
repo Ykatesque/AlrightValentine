@@ -6,7 +6,7 @@ class CreateUsers < ActiveRecord::Migration
       t.integer :zipcode
       t.boolean :paid_user
       t.string :profile_text
-      t.boolean :single
+      t.boolean :is_single
       t.string :email
       t.boolean :is_female
 
